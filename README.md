@@ -7,4 +7,4 @@
 
 • Устанавливаем docker: 'sudo yum install docker-ce docker-ce-cli containerd.io'
 
-*не успел*
+*не успел* :(
