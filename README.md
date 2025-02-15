@@ -6,4 +6,5 @@
 ![image](https://github.com/user-attachments/assets/ee10e104-83f4-411d-92b4-40fcea367ab1)
 
 • Устанавливаем docker: 'sudo yum install docker-ce docker-ce-cli containerd.io'
+
 *не успел*
