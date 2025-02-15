@@ -1,5 +1,5 @@
 # uvarov
-• устанавливает утилиту wget на вашу систему с помощью команды : `sudo yum install wget`
+• устанавливает утилиту wget с помощью команды : `sudo yum install wget`
 ![image](https://github.com/user-attachments/assets/b0d9a2a5-8ee7-46d3-b5e2-0c2c0d209b4e)
 
 • Скачиваем файл репозитория: `sudo wget -P /etc/yum.repos.d/ https://download.docker.com/linux/centos/docker-ce.repo`
