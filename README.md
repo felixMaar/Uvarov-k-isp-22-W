@@ -1,4 +1,4 @@
-# uvarov
+# Uvarov k-isp-22
 • устанавливает утилиту wget с помощью команды : `sudo yum install wget`
 ![image](https://github.com/user-attachments/assets/b0d9a2a5-8ee7-46d3-b5e2-0c2c0d209b4e)
 
